@@ -1,0 +1,25 @@
+GITHUB::
+https://github.com/galnir/Master-Bot || Musique Bot
+https://github.com/Note2Self/discord-music-bot || Musique Bot 2
+
+https://github.com/leon3110l/rpgBot/ || RPGBOT
+
+
+
+API::
+https://docs.genius.com/ || lyrics api
+https://github.com/Shazyy/NSFW || NSFW api
+https://console.cloud.google.com/google/maps-apis/new?project=kazubot&folder=&organizationId=&supportedpurview=project || Google API
+https://tenor.com/developer/dashboard || TENOR api
+https://newsapi.org/account || news api
+https://console.developers.google.com/apis/api/youtube.googleapis.com/credentials?project=kazubot || youtube api
+
+
+
+NPM::
+https://www.npmjs.com/package/canvas-constructor
+https://www.npmjs.com/package/canvas
+https://www.npmjs.com/package/chalk
+
+
+

@@ -1,0 +1,3 @@
+version premium bot:
+rpg: pack avec XPx2 matériaux sup et épée
+xp card: personalisation
